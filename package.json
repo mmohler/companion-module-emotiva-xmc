@@ -1,0 +1,23 @@
+{
+  "name": "emotiva-xmc",
+  "version": "1.0.0",
+  "api_version": "3.1.0",
+  "keywords": [
+    "Home",
+    "Theater",
+    "Receiver"
+  ],
+  "description": "A control software for the Emotiva XMC1. Should be compatible with others, but only tested with XMC1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "manufacturer": "Emotiva",
+  "product": "XMC1",
+  "shortname": "xmc1",
+  "author": "Matthew S Mohler (mattmohleris@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "xmldoc": "^1.1.2"
+  }
+}
